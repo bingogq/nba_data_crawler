@@ -17,6 +17,7 @@ def create_table():
     conn.close()
 
 def main():
+    # start_date_str = '20021006'
 
     start_date_str = '20140105'
     end_date_str = '20141123'
