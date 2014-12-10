@@ -1,6 +1,11 @@
 nba_data_crawler
 ================
 
+http://pan.baidu.com/s/1qWAxLA8
+
+http://pan.baidu.com/s/1i3vIWXv
+
+
 table
 
 CREATE TABLE `gamelog` (
